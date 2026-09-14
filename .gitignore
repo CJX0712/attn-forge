@@ -1,0 +1,8 @@
+# 推送元数据 / 临时日志
+_repo.json
+push.log
+_pushcheck.txt
+
+# 无头开发/探针脚本（非交付物，交付物为单文件 index.html）
+_smoke.js
+_probe.js
