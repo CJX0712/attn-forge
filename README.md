@@ -1,5 +1,12 @@
 # AttnForge · 注意力锻造炉
 
+<p align="center">
+  <a href="https://github.com/CJX0712/attn-forge/actions/workflows/ci.yml"><img src="https://github.com/CJX0712/attn-forge/actions/workflows/ci.yml/badge.svg" alt="ci"></a>
+  <a href="https://github.com/CJX0712/attn-forge/releases"><img src="https://img.shields.io/github/v/release/CJX0712/attn-forge?sort=semver" alt="release"></a>
+  <a href="https://github.com/CJX0712/attn-forge/blob/main/LICENSE"><img src="https://img.shields.io/github/license/CJX0712/attn-forge" alt="license"></a>
+  <img src="https://img.shields.io/badge/author-%E6%99%A8%E6%98%9F-1f6feb" alt="author">
+</p>
+
 > 纯 JavaScript 手写 **Scaled Dot-Product Self-Attention**，零框架、零依赖、单文件。
 > 浏览器里拆解 Transformer 的注意力机制：缩放点积、因果掩码、多头、正弦位置编码，外加一个**免反向传播的数值学习演示**——注意力自己学会「软 argmax」。
 
